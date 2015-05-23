@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Deepender Singla, currently a Lead Backend Developer at [Accredible](https://www.accredible.com). I am a self-learned programmer and is been lucky enough to have worked with smart and very bright people who have highest ethics till now.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My Interest varies from Speed Optimization, Algorithms, stocks and Artifical Intelligence, though just getting started on most of them. I thought its better to share my journey with others while doing this because that's how I learn by knowledge and understanding of others.

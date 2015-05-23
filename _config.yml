@@ -1,11 +1,11 @@
 # Site settings
-title: Deepender thoughts
+title: Deepender Singla blog
 email: deepender281190@gmail.com
-description: Deepender Singla Blog: Covers all my thoughts and other things which i work or think in my day
-  -to-day life.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://deependet.github.io" # the base hostname & protocol for your site
+description: "Musings of a learner"
+baseurl: ""
+url: "http://deependersingla.github.io"
 github_username:  deependersingla
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+permalink: pretty
